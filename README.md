@@ -8,3 +8,5 @@ With a deep understanding of exercise physiology, I've taken on the exciting cha
 I'm devoted to empowering athletes and coaches by developing tools that make interpreting complex data straightforward and actionable. The aim is to unlock new levels of athletic success through the power of data-driven insights. 📊🏆
 
 Here on GitHub, I'm excited to collaborate, learn, and contribute to projects that stand at the intersection of sports science and computer science. Let's push the boundaries of what's possible in athletic performance together! 🚀🤝
+
+🔒 Please note: Many of my GitHub repositories are private, as they contain class projects. These projects reflect my journey in learning and applying new skills in computer science, some tailored to the unique needs of sports science.  Please reach out if you are interested in viewing.
